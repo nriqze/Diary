@@ -1,3 +1,3 @@
 # Project Diary
 
-This project was created as an exercise during the full stack web development course.
+This project was created as a PHP exercise during the full stack web development course.
